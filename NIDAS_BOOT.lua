@@ -1,5 +1,6 @@
 -- This file *would* be stored in /lib/core/boot.lua
 -- How you get it there is up to you
+-- NOTE: If using this, you must remove the relevant lines that display the logo in /home/configuration/menu.lua
 -- called from /init.lua
 local raw_loadfile = ...
 
